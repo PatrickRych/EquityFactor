@@ -78,14 +78,7 @@ The following models are designed to:
 
 
 
-## Projects
-- <a href="https://github.com/PatrickRych/EquityFactor">Equity Risk Factor</a>
-- <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Correlation Matrix</a>
-- <a href="https://github.com/PatrickRych/Factor-Regression-Tool">Factor Regression Tool</a>
-- <a href="https://github.com/PatrickRych/Quant-Dashboard">Quant Dashboard </a>
-- <a href="https://github.com/PatrickRych/Rate-Dynamic-Model">Rate Dynamic Modeling </a>
-- <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Backtesting Engine </a>
-- <a href="https://github.com/PatrickRych/Macro-Factor-Analysis">RRG Visualizer </a>
+## Projects Archive 
 
 **<a href="https://github.com/PatrickRych/Portfolio-Manager">Project Archive </a>**
 ****
