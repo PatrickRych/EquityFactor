@@ -76,9 +76,7 @@ The following models are designed to:
 ![Visual_OptionsPricing](https://github.com/user-attachments/assets/8f8e270b-fcbe-48f3-852e-6fdd85a76806)
 
 
-
-
-## Projects Archive 
+## Project Archive 
 
 **<a href="https://github.com/PatrickRych/Portfolio-Manager">Project Archive </a>**
 ****
