@@ -50,9 +50,6 @@ Performance metrics are segmented by factor (e.g., CMF, LT Momentum, EMA Mult.) 
 #### Momentum Visualization - Chaikin Money Flow 
 ![Visual(3)_CMF](https://github.com/user-attachments/assets/e0346478-5063-462c-9e9f-2f4f28cc0e48)
 
-####  Chaikin Money Flow Binary
-![Visual(3)_CMF](https://github.com/user-attachments/assets/3870c973-0915-4cd7-853c-cb5f7516add9)
-
 #### Price Normalized and Realized Volatility 
 ![Visual(1)PriceNormalized Vol](https://github.com/user-attachments/assets/ccfe672f-9482-42de-a223-6c6986f15b59)
 
