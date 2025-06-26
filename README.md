@@ -23,7 +23,7 @@ Factor trading/investing is an approach that targets specific drivers of return 
 -Academics focus on long-term significance and robustness.
 -Practitioners focus on real-time performance, scalability, and trading feasibility
 
-# Excel SPY Analyis Project
+# Analysis on SPY 
 
 ## SPY Historical Analysis: 
 ![image](https://github.com/user-attachments/assets/8a50d1ed-7238-448f-b514-a0a61b271267)
