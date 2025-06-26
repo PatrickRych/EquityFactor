@@ -86,5 +86,6 @@ The Backtest model can be found in the project arhive.
 
 ## Project Archive 
 
-**<a href="https://github.com/PatrickRych/Portfolio-Manager">Project Archive </a>**
+| <a href="https://github.com/PatrickRych/Project/edit/main/README.md">LandingPage </a>
+| <a href="https://github.com/PatrickRych/Portfolio-Manager">Project Archive </a>
 ****
