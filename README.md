@@ -67,7 +67,7 @@ The following models are designed to:
 
 - Price vanilla options under standard BSM assumptions
 - Compare theoretical vs realized outcomes for model validation
-- Identify asymmetries in the volatility surface and strike selection edge
+- Identify risk to reward for various structures 
 - Simulate expected value under different market regimes
 
 ![OptionPricingModel](https://github.com/user-attachments/assets/1364bac5-4401-4f2e-9693-57d96dad9ca5)
