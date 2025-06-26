@@ -42,7 +42,7 @@ Performance metrics are segmented by factor (e.g., CMF, LT Momentum, EMA Mult.) 
   
 ![EquityFactor(2) - ParamterAdjustments](https://github.com/user-attachments/assets/55c4810d-2319-4eb2-b25d-73c005bf4612)
 
-### Visualizations
+## Visualizations
 
 #### Momentum Visualization - MACD  
 ![Macd](https://github.com/user-attachments/assets/79dd0def-f71d-41fc-b163-916047f9678d)
